@@ -1,0 +1,182 @@
+@font-face {
+    font-family: 'Webnar';
+    src: url('Webnar-ThinItalic.eot');
+    src: url('Webnar-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('Webnar-ThinItalic.woff2') format('woff2'),
+        url('Webnar-ThinItalic.woff') format('woff'),
+        url('Webnar-ThinItalic.ttf') format('truetype'),
+        url('Webnar-ThinItalic.svg#Webnar-ThinItalic') format('svg');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Webnar';
+    src: url('Webnar-Bold.eot');
+    src: url('Webnar-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Webnar-Bold.woff2') format('woff2'),
+        url('Webnar-Bold.woff') format('woff'),
+        url('Webnar-Bold.ttf') format('truetype'),
+        url('Webnar-Bold.svg#Webnar-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Webnar';
+    src: url('Webnar-BoldItalic.eot');
+    src: url('Webnar-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Webnar-BoldItalic.woff2') format('woff2'),
+        url('Webnar-BoldItalic.woff') format('woff'),
+        url('Webnar-BoldItalic.ttf') format('truetype'),
+        url('Webnar-BoldItalic.svg#Webnar-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Webnar';
+    src: url('Webnar-Light.eot');
+    src: url('Webnar-Light.eot?#iefix') format('embedded-opentype'),
+        url('Webnar-Light.woff2') format('woff2'),
+        url('Webnar-Light.woff') format('woff'),
+        url('Webnar-Light.ttf') format('truetype'),
+        url('Webnar-Light.svg#Webnar-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Webnar';
+    src: url('Webnar-BlackItalic.eot');
+    src: url('Webnar-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('Webnar-BlackItalic.woff2') format('woff2'),
+        url('Webnar-BlackItalic.woff') format('woff'),
+        url('Webnar-BlackItalic.ttf') format('truetype'),
+        url('Webnar-BlackItalic.svg#Webnar-BlackItalic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Webnar';
+    src: url('Webnar-DemiBoldItalic.eot');
+    src: url('Webnar-DemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Webnar-DemiBoldItalic.woff2') format('woff2'),
+        url('Webnar-DemiBoldItalic.woff') format('woff'),
+        url('Webnar-DemiBoldItalic.ttf') format('truetype'),
+        url('Webnar-DemiBoldItalic.svg#Webnar-DemiBoldItalic') format('svg');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Webnar';
+    src: url('Webnar-Thin.eot');
+    src: url('Webnar-Thin.eot?#iefix') format('embedded-opentype'),
+        url('Webnar-Thin.woff2') format('woff2'),
+        url('Webnar-Thin.woff') format('woff'),
+        url('Webnar-Thin.ttf') format('truetype'),
+        url('Webnar-Thin.svg#Webnar-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Webnar';
+    src: url('Webnar-LightItalic.eot');
+    src: url('Webnar-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('Webnar-LightItalic.woff2') format('woff2'),
+        url('Webnar-LightItalic.woff') format('woff'),
+        url('Webnar-LightItalic.ttf') format('truetype'),
+        url('Webnar-LightItalic.svg#Webnar-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Webnar';
+    src: url('Webnar-DemiBold.eot');
+    src: url('Webnar-DemiBold.eot?#iefix') format('embedded-opentype'),
+        url('Webnar-DemiBold.woff2') format('woff2'),
+        url('Webnar-DemiBold.woff') format('woff'),
+        url('Webnar-DemiBold.ttf') format('truetype'),
+        url('Webnar-DemiBold.svg#Webnar-DemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Webnar';
+    src: url('Webnar-RegularItalic.eot');
+    src: url('Webnar-RegularItalic.eot?#iefix') format('embedded-opentype'),
+        url('Webnar-RegularItalic.woff2') format('woff2'),
+        url('Webnar-RegularItalic.woff') format('woff'),
+        url('Webnar-RegularItalic.ttf') format('truetype'),
+        url('Webnar-RegularItalic.svg#Webnar-RegularItalic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Webnar';
+    src: url('Webnar-Medium.eot');
+    src: url('Webnar-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Webnar-Medium.woff2') format('woff2'),
+        url('Webnar-Medium.woff') format('woff'),
+        url('Webnar-Medium.ttf') format('truetype'),
+        url('Webnar-Medium.svg#Webnar-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Webnar';
+    src: url('Webnar-Regular.eot');
+    src: url('Webnar-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Webnar-Regular.woff2') format('woff2'),
+        url('Webnar-Regular.woff') format('woff'),
+        url('Webnar-Regular.ttf') format('truetype'),
+        url('Webnar-Regular.svg#Webnar-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Webnar';
+    src: url('Webnar-MediumItalic.eot');
+    src: url('Webnar-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('Webnar-MediumItalic.woff2') format('woff2'),
+        url('Webnar-MediumItalic.woff') format('woff'),
+        url('Webnar-MediumItalic.ttf') format('truetype'),
+        url('Webnar-MediumItalic.svg#Webnar-MediumItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Webnar';
+    src: url('Webnar-Black.eot');
+    src: url('Webnar-Black.eot?#iefix') format('embedded-opentype'),
+        url('Webnar-Black.woff2') format('woff2'),
+        url('Webnar-Black.woff') format('woff'),
+        url('Webnar-Black.ttf') format('truetype'),
+        url('Webnar-Black.svg#Webnar-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+

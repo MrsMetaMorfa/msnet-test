@@ -1,0 +1,23 @@
+// Named colors
+$clrWhite: #fff;
+$clrBlack: #29333E;
+$clrDark: #3A424B;
+$clrLighterBlue: #F5F7F9;
+$clrLightBlue: #D1DFEC;
+$clrTextLightBlue: #98B7D7;
+$clrBlue: #2D67D6;
+
+$baseColorMain: $clrBlack;
+$baseColorDark: $clrDark;
+$baseColorLight: $clrWhite;
+$secondaryColorLighter: $clrLighterBlue;
+$secondaryBorderColor: $clrLightBlue;
+$secondaryColor: $clrBlue;
+
+$shadowColor: rgba(41, 43, 49, 0.1);
+
+$borderTransparent: fade_out($clrBlue, 0.6);
+
+$transitionBasic: 0.2s ease-out;
+$transitionFast: 0.1s ease-out;
+

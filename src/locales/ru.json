@@ -1,0 +1,10 @@
+{
+    "base": {
+        "loading": "Загрузка"
+    },
+    "nav": {
+    	"prev": "Назад",
+    	"next": "Вперед"
+    },
+    "tmpStuff": "Welcome!"
+}

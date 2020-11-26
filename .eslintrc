@@ -1,0 +1,128 @@
+{
+	"root": true,
+	"env": {
+		"node": true
+	},
+	"extends": [
+		"plugin:vue/essential",
+		"eslint:recommended",
+		"@vue/airbnb"
+	],
+	"rules": {
+		"brace-style": [
+			"error",
+			"stroustrup",
+			{
+				"allowSingleLine": true
+			}
+		],
+		"comma-dangle": [
+			"error",
+			"never"
+		],
+		"curly": "error",
+		"import/extensions": [
+			"error",
+			"never",
+			{
+				"css": "always",
+				"jpeg": "always",
+				"jpg": "always",
+				"json": "always",
+				"png": "always",
+				"svg": "always"
+			}
+		],
+		"import/no-named-default": "off",
+		"indent": [
+			"error",
+			"tab"
+		],
+		"no-tabs": 0,
+		"linebreak-style": "off",
+		"max-len": [
+			"error",
+			{
+				"code": 500,
+				"comments": 500,
+				"tabWidth": 4
+			}
+		],
+		"no-confusing-arrow": ["error", {"allowParens": true}],
+		"no-console": "off",
+		"no-continue": "off",
+		"no-irregular-whitespace": "error",
+		"no-mixed-operators": "off",
+		"no-plusplus": "off",
+		"no-trailing-spaces": [
+			"error",
+			{
+				"ignoreComments": true
+			}
+		],
+		"no-unused-vars": "error",
+		"no-use-before-define": "error",
+		"no-var": "error",
+		"no-whitespace-before-property": "error",
+		"one-var-declaration-per-line": [
+			"error",
+			"always"
+		],
+		"prefer-const": "off",
+		"prefer-destructuring": [
+			"error",
+			{
+				"array": false,
+				"object": false
+			}
+		],
+		"quotes": [
+			"error",
+			"single",
+			{
+				"avoidEscape": true,
+				"allowTemplateLiterals": true
+			}
+		],
+		"semi": [
+			"error",
+			"never"
+		],
+		"spaced-comment": [
+			"error",
+			"always"
+		]
+	},
+	"parserOptions": {
+		"parser": "babel-eslint"
+	},
+	"overrides": [
+		{
+			"files": [
+				"**/__tests__/*.{j,t}s?(x)",
+				"**/tests/unit/**/*.spec.{j,t}s?(x)"
+			],
+			"env": {
+				"jest": true
+			}
+		},
+		{
+			"files": [
+				"**/__tests__/*.{j,t}s?(x)",
+				"**/tests/unit/**/*.spec.{j,t}s?(x)"
+			],
+			"env": {
+				"jest": true
+			}
+		},
+		{
+			"files": [
+				"**/__tests__/*.{j,t}s?(x)",
+				"**/tests/unit/**/*.spec.{j,t}s?(x)"
+			],
+			"env": {
+				"jest": true
+			}
+		}
+	]
+}
